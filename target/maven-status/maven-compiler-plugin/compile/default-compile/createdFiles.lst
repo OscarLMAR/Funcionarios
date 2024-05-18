@@ -1,0 +1,4 @@
+com\mycompany\funcionarios\Funcionarios.class
+com\mycompany\funcionarios\controller\FuncionarioController.class
+com\mycompany\funcionarios\dao\FuncionarioDao.class
+com\mycompany\funcionarios\domine\Funcionario.class
